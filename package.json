@@ -1,0 +1,20 @@
+{
+    "name": "cards.js",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./node_modules/.bin/jest"
+    },
+    "author": "cristianramirezdev@hotmail.com",
+    "license": "ISC",
+    "devDependencies": {
+        "express": "^4.17.1",
+        "jest": "^27.0.4"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "node-fetch": "^2.6.1",
+        "nodemon": "^2.0.7"
+    }
+}
